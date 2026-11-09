@@ -1,0 +1,23 @@
+{
+  "name": "fokals",
+  "version": "1.0.0",
+  "description": "Market & Company Intelligence for your AI agents, what companies will likely adopt next, company health, buying signals and market feeds, from technology, hiring and funding data. Priced per company.",
+  "author": {
+    "name": "Fokals",
+    "email": "support@fokals.com"
+  },
+  "homepage": "https://www.fokals.com/docs/connect",
+  "repository": "https://github.com/fokals/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "company data",
+    "market intelligence",
+    "likely next",
+    "company health",
+    "buying signals",
+    "enrichment",
+    "sales",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}
